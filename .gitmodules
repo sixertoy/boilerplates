@@ -1,0 +1,4 @@
+[submodule "boilerplate-react-app"]
+	path = boilerplate-react-app
+	url = git@github.com:sixertoy/boilerplate-react-app.git
+	branch = master
